@@ -125,5 +125,9 @@ a:hover {
  .copy {
    color: #eaf6f6;
    font-size: 0.75rem;
-   
+
  }
+
+.footer-link {
+margin: 10px 20px;
+}
